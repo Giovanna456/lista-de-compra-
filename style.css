@@ -1,0 +1,107 @@
+ .cabeçalho_título{
+    display: flex;
+    justify-content: center;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+ }
+
+ .cabeçalho_imagem{ 
+   display: block;
+   margin: auto;
+   height: 220px;
+}
+
+
+.PRODUTOS_DE_LIMPEZA{ 
+   color: #273DFF;
+   margin: 20px;
+
+   }
+
+.proutos_de_limpeza_título{
+   font-family: "Inter, sans-serf";
+   font-size: 48px;
+}
+
+.produto_de_limpeza_itens{
+   ont-family:"Inter, sans-serf" ;
+   font-weight: 400;
+   font-size: 32px;
+}
+
+.HIGIENE_PESSOAL{ 
+   color:#E73434;
+   margin: 20px;
+   }
+
+.higiene_pessoal_título{
+   font-family: "Inter, sans-serf";
+   font-size: 48px;
+}
+
+.higiene_pesoal_itens{
+   font-family:"Inter, sans-serf" ;
+   font-weight: 400;
+   font-size: 32px;
+}
+
+
+
+.AÇOUGUE { 
+   color: #F119F5;
+   margin: 20px;
+
+   }
+
+.açougue_título{
+   font-family: "Inter, sans-serf";
+   font-size: 48px;
+}
+.açougue_itens{
+   font-family: "Inter, sans-serf" ;
+   font-weight: 400;
+   font-size: 32px;
+}
+
+.FEIRA { 
+   color: #BECD12;
+   margin: 20px;
+
+   }
+
+.feira_título{
+   font-family: "Inter, sans-serf";
+   font-size: 48px;
+}
+.feira_itens{
+   font-family: "Inter, sans-serf" ;
+   font-weight: 400;
+   font-size: 32px;
+}
+
+
+.MERCEARIA{ 
+   color: #DC7516;
+   margin: 20px;
+
+   }
+
+.mercearia_título{
+   font-family: "Inter, sans-serf";
+   font-size: 48px;
+}
+.mercearia_itens{
+   font-family: "Inter, sans-serf" ;
+   font-weight: 400;
+   font-size: 32px;
+}
+
+
+
+
+
+   
+
+
+
